@@ -1,0 +1,7 @@
+num = (1,2,3,4,5,6,7,8,9,0)
+temp = list(num)     # NOW CHANGING TUPLE TO LIST
+temp.pop(0)          # USED TO REMOVE INDEX
+temp.append(999)     # USED TO ADD UNIT IN THE THE LAST OF EXISTING INDEX 
+temp[1] = 888        # USED TO REPLACE NUMBERS OR "STRINGS" WITH THE HELP OF INDEX NUMBER
+num = tuple(temp)    # NOW CONVERTING LIST TO TUPLE
+print("Final",num)   # PRINTING THE FINAL VALUE OF "num"
