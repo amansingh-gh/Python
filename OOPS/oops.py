@@ -1,14 +1,10 @@
-class person:
-    def info(self):
-        print(f"My name is {self.name} and my occpation is {self.occupation}")
+class Employee:
+    def __init__(self, fname, lname, sal):
+        self.fname = fname
+        self.lname = lname
+        self.sal = sal
+emp1 = Employee('Aman', 'Singh', 500000)
+emp2 = Employee('Tony', 'Stark', 400000)
 
-a=person()
-b=person()
-
-a.name = "Ankit"
-b.name = "Sonam"
-
-a.occupation = "HR"
-b.occupation = "Clerk"
-
-b.info()
+print(emp2.sal)
+print(emp2.lname)
