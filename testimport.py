@@ -1,3 +1,3 @@
-from import1 import *
+from function.import1 import *
 message()
 print(x)

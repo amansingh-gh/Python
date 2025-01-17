@@ -3,4 +3,3 @@ b=input("Enter the value of b: ")
 # c=a+b
 c = int(a) + int(b)
 print(c)
-
