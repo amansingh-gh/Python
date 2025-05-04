@@ -54,6 +54,7 @@ for i in l1:
 
 
 # set
+print("Set answer is: ")
 l2 = (3, 5, 7, 8, "Harry")
 for i in l2:
     print(i, " ")
