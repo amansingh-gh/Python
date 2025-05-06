@@ -1,0 +1,10 @@
+Alice Smith,alice.smith@example.com
+Bob Johnson,bob.johnson@example.com
+Charlie Lee,charlie.lee@example.com
+Diana Adams,diana.adams@example.com
+Ethan Clark,ethan.clark@example.com
+Fiona Brown,fiona.brown@example.com
+George White,george.white@example.com
+Hannah Black,hannah.black@example.com
+Ivan Green,ivan.green@example.com
+Julia King,julia.king@example.com
